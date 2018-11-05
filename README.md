@@ -5,13 +5,13 @@ My ctfTools who helped me a lot
 # Cryptography
 
 
-- [rumkin](http://rumkin.com/tools/cipher/k)
+- [rumkin](http://rumkin.com/tools/cipher)
 - [dcode](https://www.dcode.fr)
 
 
 **Substitution solver**
 
-- [guballa]https://www.guballa.de/substitution-solver)
+- [guballa](https://www.guballa.de/substitution-solver)
 - [quipqiup](https://quipqiup.com/)
 
 
