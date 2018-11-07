@@ -19,4 +19,9 @@ My ctfTools who helped me a lot
 
 - [tutorialspoint](https://www.tutorialspoint.com/execute_brainfk_online.php)
 
+# Steganography
 
+   **QR**
+
+   - [zxing](https://zxing.org/w/decode.jspx)
+      
